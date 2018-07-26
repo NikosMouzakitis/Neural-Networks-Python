@@ -1,5 +1,9 @@
 
-''' Observe the change of the sloop, by changing the bias for a constant weight '''
+''' 
+Observe the change of the sloop of
+the activation function by changing the 
+bias for a constant weight '''
+
 import numpy as np
 import matplotlib.pylab as plt
 
