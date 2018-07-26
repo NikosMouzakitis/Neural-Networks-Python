@@ -1,3 +1,8 @@
+'''
+Observe the differences in the sigmoid function(activation function)
+for different values for weights, in this case the bias does not exist.
+'''
+
 import numpy as np
 import matplotlib.pylab as plt
 w1 = 0.5
